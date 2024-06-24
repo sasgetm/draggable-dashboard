@@ -15,5 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Cтраница редактируемого dashboard
+
+HTML5/CSS3, Vue
+Карточки можно добавлять, удалять, менять местами
+
+https://sasgetm.github.io/draggable-dashboard
