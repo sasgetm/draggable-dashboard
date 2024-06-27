@@ -23,7 +23,7 @@ const routes = [
 
 const router = createRouter({
   routes,
-  history: createWebHistory(),
+  history: createWebHistory('/draggable-dashboard/'),
 });
 
 export default router;
